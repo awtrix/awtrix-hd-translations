@@ -32,6 +32,7 @@ Clone=Klonen
 Delete=Entfernen
 Do\ you\ want\ to\ clone\ %= Möchtest du % klonen?
 Do\ you\ want\ to\ delete\ %= Möchtest du % entfernen?
+App\ specific=Appspezifisch
 
 ! MQTT
 MQTT\ ID=MQTT ID
@@ -57,3 +58,8 @@ Speed=Geschwindigkeit
 ! Weather
 City=Stadt
 Show\ City=Zeige Stadt
+Feels\ like=Gefühlt wie
+Huminity=Luftfeuchte
+Pressure=Druck
+Windspeed=Windgesch.
+Direction=Richtung

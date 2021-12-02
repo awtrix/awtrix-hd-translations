@@ -25,6 +25,16 @@ Welcome/ text=Begrüßungstext
 Discord/ username=Discord username
 Language=Sprache
 
+##MQTT##
+MQTT/ ID=MQTT/ ID
+Enable=Aktivieren
+Use/ SSL= Verwende SSL
+Host=Host
+Port=Port
+Use/ Login=Nutze Login
+Username=Benutzername
+Passsword=Passwort
+
 ##Status##
 Version=Version
 Space left: Freier Speicher

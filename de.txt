@@ -9,45 +9,45 @@ General=Allgemein
 WiFi=WLAN
 MQTT=MQTT
 Status=Status
-Fixed/ Apps=Feste Anwendungen
+Fixed\ Apps=Feste Anwendungen
 Settings=Einstellungen
 
 ! General
 Displaytime=Anzeigedauer
-App/ runtime=Applaufzeit
+App\ runtime=Applaufzeit
 Animation=Animation
-Show/ Appname=Zeige Appname
+Show\ Appname=Zeige Appname
 Brightness=Helligkeit
 Appearance=Aussehen
 Textcolor=Textfarbe
-Background/ color=Hintergrundfarbe
-Accents/ color=Akzentfarbe
-Welcome/ message=Willkommensnachricht
-Welcome/ text=Willkommenstext
-Discord/ username=Discord Benutzername
+Background\ color=Hintergrundfarbe
+Accents\ color=Akzentfarbe
+Welcome\ message=Willkommensnachricht
+Welcome\ text=Willkommenstext
+Discord\ username=Discord Benutzername
 Language=Sprache
 
 ! Apps
 Clone=Klonen
 Delete=Entfernen
-Do/ you/ want/ to/ clone/ %= Möchtest du % klonen?
-Do/ you/ want/ to/ delete/ %= Möchtest du % entfernen?
+Do\ you\ want\ to\ clone\ %= Möchtest du % klonen?
+Do\ you\ want\ to\ delete\ %= Möchtest du % entfernen?
 
 ! MQTT
-MQTT/ ID=MQTT ID
+MQTT\ ID=MQTT ID
 Enable=Aktivieren
-Use/ SSL= Verwende SSL
+Use\ SSL= Verwende SSL
 Host=Host
 Port=Port
-Use/ Login=Nutze Login
+Use\ Login=Nutze Login
 Username=Benutzername
 Passsword=Passwort
 
 ! Status
 Version=Version
-Space/ left: Freier Speicher
-IP/ Address= IP Addresse
-Crear/ Browsercache=Browsercache löschen
+Space\ left: Freier Speicher
+IP\ Address= IP Addresse
+Crear\ Browsercache=Browsercache löschen
 Backup=Backup
 
 ! TTS##
@@ -56,4 +56,4 @@ Speed=Geschwindigkeit
 
 ! Weather
 City=Stadt
-Show/ City=Zeige Stadt
+Show\ City=Zeige Stadt

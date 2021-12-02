@@ -7,6 +7,9 @@ Loading=Lade
 None=Keins
 Random=Zufällig
 Authentication=Anmeldung
+Restart\ required=Neustart erforderlich
+Power=Ein/Aus
+Restart=Neustart
 
 ! Menus
 General=Allgemein
@@ -64,9 +67,10 @@ Pitch=Tonhöhe
 Speed=Geschwindigkeit
 
 ! Radio
-Favotites=Favoriten
+Favorites=Favoriten
 Top50=Top50
 Search\ by\ name=Nach Namen suchen
+Search\ station=Suche Radiosender
 
 ! Utilities
 Sleepmode=Schlafmodus
@@ -100,7 +104,7 @@ Currency=Währung
 
 ! Clock
 Border\ color=Rahmenfarbe
-Show\ border=zeige Rahmen
+Show\ border=Zeige Rahmen
 Show\ seconds\ needle=Zeige Sekundenzeiger
 Show\ seconds\ progress=Zeige Sekundenfortschritt
 Seconds\ needle\ color=Sekundenzeiger Farbe
@@ -135,8 +139,15 @@ Strokewidth=Strichstärke
 ! Youtube
 ChannelID=ChannelID
 
+! Pi-Hole
+Pi-hole\ IP=Pi-hole IP
+Total\ queries\:=Gesamte Anfragen:
+Queries\ blocked\:=Anfragen blockiert:
+Percent\ blocked\:=Prozentsatz blockiert:
+Domains\ on\ blocklist\:=Domains auf der Blockliste:
+
 ! AdGuard
-AdGuard IP=AdGuard IP
+AdGuard\ IP=AdGuard IP
 Username=Benutzername
 Password=Passwort
 
@@ -160,9 +171,6 @@ Stream\ URL=Stream URL
 Stream\ port=Stream port
 Flip\ horizontal=Horizontal spiegeln
 Flip\ vertical=Vertikal spiegeln
-
-! Pi-Hole
-Pi-hole\ IP=Pi-hole IP
 
 ! Spotify
 ClientID=ClientID

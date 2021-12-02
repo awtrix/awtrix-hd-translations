@@ -1,18 +1,17 @@
-##Menus##
-General=Allgemein
-Displaytime=Anzeigedauer
+##Various##
 OK=OK
 CANCEL=ABBRUCH
+
+##Menus##
+General=Allgemein
+WiFi=WLAN
+MQTT=MQTT
+Status=Status
 Fixed/ Apps=Feste Anwendungen
 Settings=Einstellungen
-WiFi=WLAN
-Status=Status
-Version=Version
-Space left: Freier Speicher
-IP/ Address= IP Addresse
-Crear/ Browsercache=Browsercache löschen
-Backup=Backup
-Language=Sprache
+
+#General
+Displaytime=Anzeigedauer
 App/ runtime=App Laufzeit
 Animation=Animation
 Show/ Appname=Zeige Appname
@@ -24,6 +23,14 @@ Accents/ Color=Akzentfarbe
 Welcome/ message=Willkommensnachricht
 Welcome/ text=Begrüßungstext
 Discord/ username=Discord username
+Language=Sprache
+
+##Status##
+Version=Version
+Space left: Freier Speicher
+IP/ Address= IP Addresse
+Crear/ Browsercache=Browsercache löschen
+Backup=Backup
 
 ##TTS##
 Pitch=Tonhöhe

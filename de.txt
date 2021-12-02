@@ -10,6 +10,9 @@ Authentication=Anmeldung
 Restart\ required=Neustart erforderlich
 Power=Ein/Aus
 Restart=Neustart
+Fixed\ Apps=Statische Apps
+NEW=NEU
+Browser=Browser
 
 ! Menus
 General=Allgemein

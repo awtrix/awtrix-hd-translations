@@ -4,6 +4,9 @@ CANCEL=ABBRUCH
 Yes=Ja
 No=Nein
 Loading=Lade
+None=Keins
+Random=Zufällig
+Authentication=Anmeldung
 
 ! Menus
 General=Allgemein
@@ -17,10 +20,14 @@ Settings=Einstellungen
 Displaytime=Anzeigedauer
 App\ runtime=Applaufzeit
 Animation=Animation
-Show\ Appname=Zeige Appname
+Show\ appname=Zeige Appname
 Brightness=Helligkeit
 Appearance=Aussehen
 Textcolor=Textfarbe
+Textshadow=Textschatten
+Shadowcolor=Schattenfarbe
+Auto\ TextSize=Auto Textgröße
+Textsize=Textgröße
 Background\ color=Hintergrundfarbe
 Accents\ color=Akzentfarbe
 Welcome\ message=Willkommensnachricht
@@ -86,3 +93,82 @@ Huminity=Luftfeuchte
 Pressure=Druck
 Windspeed=Windgesch.
 Direction=Richtung
+
+! Crypto
+Coin=Coin
+Currency=Währung
+
+! Clock
+Border\ color=Rahmenfarbe
+Show\ border=zeige Rahmen
+Show\ seconds\ needle=Zeige Sekundenzeiger
+Show\ seconds\ progress=Zeige Sekundenfortschritt
+Seconds\ needle\ color=Sekundenzeiger Farbe
+Seconds\ progress\ color=Sekundenfortschritt Farbe
+Show\ minutes\ values=Zeige Minuten
+Show\ minutes\ progress=Zeige Minutenfortschritt
+Minutes\ needle\ color=Mintenzeiger Farbe
+Minutes\ progress\ color=Minutenfortschritt Farbe
+Show\ hours\ values=Zeige Stunden
+Hours\ values\ color=Stundenfarbe
+Hours\ progress\ color=Stundenfortschritt
+Hours\ needle\ color=Stundenzeiger Farbe
+Show\ center=Zeige Mittelpunkt
+Center\ outer\ color=Mittelpunk außen
+Center\ inner\ color=Mittelpunkt innen
+Show\ degrees=Zeige Winkel
+Degrees\ color=Winkelfarbe
+Value\ disposition=Wertdisposition
+Degrees\ type=Winkeltyp
+Degree\ step=Winkelschritt
+
+! SocialMedia
+Username=Benutzername
+Onlinebanner=Onlinebanner
+Show\ username=Zeige Benutzername
+
+! Whiteboard
+Mode=Modus
+Strokecolor=Strichfarbe
+Strokewidth=Strichstärke
+
+! Youtube
+ChannelID=ChannelID
+
+! AdGuard
+AdGuard IP=AdGuard IP
+Username=Benutzername
+Password=Passwort
+
+! Digital Clock
+Time\ color=Zeitfarbe
+Date\ color=Datumsfarbe
+
+! Giphy
+Tag\ filter=Tag filter
+Rating=Einstufung
+
+! Helium
+Wallet\ address=Wallet Adresse
+Currency=Währung
+
+! Octoprint
+Host=Host
+API\ Key=API Schlüssel
+Show\ webcam=Zeige Webcam
+Stream\ URL=Stream URL
+Stream\ port=Stream port
+Flip\ horizontal=Horizontal spiegeln
+Flip\ vertical=Vertikal spiegeln
+
+! Pi-Hole
+Pi-hole\ IP=Pi-hole IP
+
+! Spotify
+ClientID=ClientID
+ClientSecret=ClientSecret
+
+! Stock Ticker
+Stock\ symbol=Börsenkürzel
+Interval=Intervall
+Exchange=Börse

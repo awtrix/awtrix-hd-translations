@@ -1,0 +1,30 @@
+##Menus##
+General=Allgemein
+Displaytime=Anzeigedauer
+OK=OK
+CANCEL=ABBRUCH
+Fixed/ Apps=Feste Anwendungen
+Settings=Einstellungen
+WiFi=WLAN
+Status=Status
+Version=Version
+Space left: Freier Speicher
+IP/ Address= IP Addresse
+Crear/ Browsercache=Browsercache löschen
+Backup=Backup
+Language=Sprache
+App/ runtime=App Laufzeit
+Animation=Animation
+Show/ Appname=Zeige Appname
+Brightness=Helligkeit
+Appearance=Aussehen
+Textcolor=Textfarbe
+Background/ Color=Hintergrundfarbe
+Accents/ Color=Akzentfarbe
+Welcome/ message=Willkommensnachricht
+Welcome/ text=Begrüßungstext
+Discord/ username=Discord username
+
+###Weather###
+City=Stadt
+Show City=Zeige Stadt

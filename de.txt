@@ -62,12 +62,12 @@ Top50=Top50
 Search\ by\ name=Nach Namen suchen
 
 ! Utilities
-Sleepmode=Schalfmodus
+Sleepmode=Schlafmodus
 Sleep\ app=Schlafapp
 Start\ sleep=Startzeit
-Sleep\ brightness=Helligkeit bei schlafen
+Sleep\ brightness=Helligkeit beim Schlafen
 Stop\ sleep=Endzeit
-Awake\ brightness=Helligkeit bei aufwachen
+Awake\ brightness=Helligkeit beim Aufwachen
 Alarmclock=Wecker
 Enable\ alarm=Wecker Aktivieren
 Alarm\ time=Weckzeit

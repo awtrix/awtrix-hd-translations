@@ -3,6 +3,7 @@ OK=OK
 CANCEL=ABBRUCH
 Yes=Ja
 No=Nein
+Loading=Lade
 
 ! Menus
 General=Allgemein
@@ -54,6 +55,28 @@ Backup=Backup
 ! TTS##
 Pitch=Tonhöhe
 Speed=Geschwindigkeit
+
+! Radio
+Favotites=Favoriten
+Top50=Top50
+Search\ by\ name=Nach Namen suchen
+
+! Utilities
+Sleepmode=Schalfmodus
+Sleep\ app=Schlafapp
+Start\ sleep=Startzeit
+Sleep\ brightness=Helligkeit bei schlafen
+Stop\ sleep=Endzeit
+Awake\ brightness=Helligkeit bei aufwachen
+Alarmclock=Wecker
+Enable\ alarm=Wecker Aktivieren
+Alarm\ time=Weckzeit
+Sound=Sound
+Radiostation=Radiosender
+Snooze\ time= Snooze
+Alarm=Wecker
+Stop=Stop
+Snooze=Snooze
 
 ! Weather
 City=Stadt

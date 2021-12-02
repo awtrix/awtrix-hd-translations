@@ -25,6 +25,10 @@ Welcome/ message=Willkommensnachricht
 Welcome/ text=Begrüßungstext
 Discord/ username=Discord username
 
+##TTS##
+Pitch=Tonhöhe
+Speed=Geschwindigkeit
+
 ###Weather###
 City=Stadt
 Show City=Zeige Stadt

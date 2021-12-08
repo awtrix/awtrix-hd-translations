@@ -1,0 +1,185 @@
+! Various
+OK=OK
+CANCEL=ANNULER
+Yes=Oui
+No=Non
+Loading=Chargement
+None=Rien
+Random=Aléatoire
+Authentication=Authentification
+Restart\ required=Redémarrage requis
+Power=Allumé/Eteint
+Restart=Redémarrage
+Fixed\ Apps=App Statique
+NEW=Nouveau
+Browser=Navigateur
+
+! Menus
+General=Générale
+WiFi=WiFi
+MQTT=MQTT
+Status=Statut
+Fixed\ Apps=Applications fixes
+Settings=Paramètres
+
+! General
+Displaytime=Durée d'affichage
+App\ runtime=Temps d'exécution de l'application
+Animation=Animation
+Show\ appname=Afficher le nom de l'app
+Brightness=Luminosité
+Appearance=Apparence
+Textcolor=COuleur du texte
+Textshadow=Ombre de texte
+Shadowcolor=Couleur de l'ombre
+Auto\ TextSize=Redimensionnement automatique
+Textsize=Taille du texte
+Background\ color=Couleur du fond d'écran
+Accents\ color=Couleur des accents
+Welcome\ message=Message de bienvenue
+Welcome\ text=Texte de bienvenue
+Discord\ username=Nom d'utilisateur Discord
+Language=Langue
+
+! Apps
+Clone=Cloner
+Delete=Effacer
+Do\ you\ want\ to\ clone\ %= Voulez vous clonter?
+Do\ you\ want\ to\ delete\ %= Voulez vou effacer?
+App\ specific=App spécifique
+
+! MQTT
+MQTT\ ID=ID MQTT 
+Enable=Activer
+Use\ SSL= Utiliser SSL
+Host=Hote
+Port=Port
+Use\ Login=Utiliser Login
+Username=Nom d'utilisateur
+Passsword=Mot de passe
+
+! Status
+Version=Version
+Space\ left: Espace a gauche
+IP\ Address= Addresse IP
+Crear\ Browsercache=Vider le cache du navigateur
+Backup=Sauvegarde
+
+! TTS##
+Pitch=Terrain
+Speed=Vitesse
+
+! Radio
+Favorites=Favoris
+Top50=Top50
+Search\ by\ name=Chercher par nom
+Search\ station=Chercher par station
+
+! Utilities
+Sleepmode=Mode veille
+Sleep\ app=Application en veille
+Start\ sleep=Démarrage\ Veille 
+Sleep\ brightness=Luminosité en veille
+Stop\ sleep=Stop\ Veille 
+Awake\ brightness=Luminosité au réveil
+Alarmclock=Réveil
+Enable\ alarm=Activer l'alarme
+Alarm\ time=Heure de l'alarme
+Sound=Son
+Radiostation=Station Radio
+Snooze\ time= Snooze
+Alarm=Réveil
+Stop=Stop
+Snooze=Snooze
+
+! Weather
+City=Ville
+Show\ City=Afficher la ville
+Feels\ like=Ressenti
+Humidity=Humidité
+Pressure=PRession
+Windspeed=Vitesse du vent
+Direction=Direction
+
+! Crypto
+Coin=Pièce
+Currency=Monnaie
+
+! Clock
+Border\ color=Couleur des bords
+Show\ border=Afficher les bords
+Show\ seconds\ needle=Afficher la trotteuse
+Show\ seconds\ progress=Afficher la progression des secondes
+Seconds\ needle\ color=Couleur de la trotteuse
+Seconds\ progress\ color=Deuxième couleur de progression
+Show\ minutes\ values=Afficher les minutes
+Show\ minutes\ progress=Afficher la progression des minutes
+Minutes\ needle\ color=Couleur de l'aiguille des minutes
+Minutes\ progress\ color=Progression de l'aiguille des minute
+Show\ hours\ values=Afficher les heures
+Hours\ values\ color=Couleur de la valeur des heures
+Hours\ progress\ color=Progression de l'aiguille des heures
+Hours\ needle\ color=Couleur de l'aiguille des heures
+Show\ center=Afficher le point central
+Center\ outer\ color=Couleur extérieure du point central
+Center\ inner\ color=Couleur intérieure du point central
+Show\ degrees=Afficher les degrés
+Degrees\ color=Couelur des degrés
+Value\ disposition=Disposition de valeur
+Degrees\ type=Type de degrés
+Degree\ step=PAs des degrés
+
+! SocialMedia
+Username=Nom d'utilisateur
+Onlinebanner=Bannière en ligne
+Show\ username=Afficher le nom d'utilisateur
+
+! Whiteboard
+Mode=Mode
+Strokecolor=Couleur de la ligne
+Strokewidth=Largeur de ligne
+
+! Youtube
+ChannelID=ID de la chaîne
+
+! Pi-Hole
+Pi-hole\ IP=IP de Pi-hole
+Total\ queries\:=Nombre de requêtes:
+Queries\ blocked\:=Requêtes bloquées:
+Percent\ blocked\:=Pourcentage bloqués:
+Domains\ on\ blocklist\:=Domaine sur la liste noire:
+
+! AdGuard
+AdGuard\ IP=IP de AdGuard
+Username=Nom d'utilisateur
+Password=Mot de passe
+
+! Digital Clock
+Time\ color=Couleur de l'heure
+Date\ color=Couleur de la date
+
+! Giphy
+Tag\ filter=Filtre du tag
+Rating=Classement
+
+! Helium
+Wallet\ address=Adresse du portefeuille
+Currency=Monnaie
+
+! Octoprint
+Host=Host
+API\ Key=Clef API 
+Show\ webcam=Afficher la Webcam
+Stream\ URL=URL du Stream
+Stream\ port=Port du stream
+Flip\ horizontal=Retourner Horizontalement
+Flip\ vertical=Retourner Verticalement
+
+! Spotify
+ClientID=ClientID
+ClientSecret=ClientSecret
+
+! Stock Ticker
+Stock\ symbol=Symbole boursier
+Interval=Intervalle
+Exchange=Bourse

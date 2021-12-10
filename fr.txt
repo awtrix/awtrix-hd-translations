@@ -29,7 +29,7 @@ Animation=Animation
 Show\ appname=Afficher le nom de l'app
 Brightness=Luminosité
 Appearance=Apparence
-Textcolor=COuleur du texte
+Textcolor=Couleur du texte
 Textshadow=Ombre de texte
 Shadowcolor=Couleur de l'ombre
 Auto\ TextSize=Redimensionnement automatique
@@ -43,9 +43,9 @@ Language=Langue
 
 ! Apps
 Clone=Cloner
-Delete=Effacer
-Do\ you\ want\ to\ clone\ %= Voulez vous clonter?
-Do\ you\ want\ to\ delete\ %= Voulez vou effacer?
+Delete=Supprimer
+Do\ you\ want\ to\ clone\ %= Voulez vous cloner?
+Do\ you\ want\ to\ delete\ %= Voulez vou supprimer?
 App\ specific=App spécifique
 
 ! MQTT
@@ -66,7 +66,7 @@ Crear\ Browsercache=Vider le cache du navigateur
 Backup=Sauvegarde
 
 ! TTS##
-Pitch=Terrain
+Pitch=Tonalité
 Speed=Vitesse
 
 ! Radio
@@ -102,7 +102,7 @@ Windspeed=Vitesse du vent
 Direction=Direction
 
 ! Crypto
-Coin=Pièce
+Coin=Coin
 Currency=Monnaie
 
 ! Clock
@@ -127,7 +127,7 @@ Show\ degrees=Afficher les degrés
 Degrees\ color=Couelur des degrés
 Value\ disposition=Disposition de valeur
 Degrees\ type=Type de degrés
-Degree\ step=PAs des degrés
+Degree\ step=Pas des degrés
 
 ! SocialMedia
 Username=Nom d'utilisateur

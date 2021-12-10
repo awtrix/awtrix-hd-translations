@@ -65,13 +65,16 @@ Port=Port
 Use\ Login=Utiliser Login
 Username=Nom d'utilisateur
 Passsword=Mot de passe
+Connected=Connecté
+Disconnected=Déconnecté
 
 ! Status
 Version=Version
 Space\ left: Espace a gauche
 IP\ Address= Addresse IP
-Crear\ Browsercache=Vider le cache du navigateur
-Backup=Sauvegarde
+Clear\ Browsercache=Vider le cache du navigateur
+Restore\ Backup=Restaurer une sauvegarde
+Create\ Backup=Créer une sauvegarde
 
 ! TTS##
 Pitch=Terrain

@@ -64,13 +64,16 @@ Port=Port
 Use\ Login=Nutze Login
 Username=Benutzername
 Passsword=Passwort
+Connected=Verbunden
+Disconnected=Getrennt
 
 ! Status
 Version=Version
 Space\ left: Freier Speicher
 IP\ Address= IP Addresse
-Crear\ Browsercache=Browsercache löschen
-Backup=Backup
+Clear\ Browsercache=Browsercache löschen
+Restore\ Backup=Backup wiederherstellen
+Create\ Backup=Backup erstellen
 
 ! TTS##
 Pitch=Tonhöhe

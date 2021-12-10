@@ -13,6 +13,13 @@ Restart=Neustart
 Fixed\ Apps=Statische Apps
 NEW=NEU
 Browser=Browser
+Monday=Montag
+Tuesday=Dienstag
+Wednesday=Mittwoch
+Thursday=Donnerstag
+Friday=Freitag
+Saturday=Samstag
+Sunday=Sonntag
 
 ! Menus
 General=Allgemein
@@ -157,6 +164,7 @@ Password=Passwort
 ! Digital Clock
 Time\ color=Zeitfarbe
 Date\ color=Datumsfarbe
+
 
 ! Giphy
 Tag\ filter=Tag filter

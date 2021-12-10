@@ -5,11 +5,11 @@ Yes=Oui
 No=Non
 Loading=Chargement
 None=Rien
-Random=Aléatoire
+Random=Al?atoire
 Authentication=Authentification
-Restart\ required=Redémarrage requis
-Power=Allumé/Eteint
-Restart=Redémarrage
+Restart\ required=Red?marrage requis
+Power=Allum?/Eteint
+Restart=Red?marrage
 Fixed\ Apps=App Statique
 NEW=Nouveau
 Browser=Navigateur
@@ -23,26 +23,26 @@ Sunday=Dimanche
 
 
 ! Menus
-General=Générale
+General=G?n?rale
 WiFi=WiFi
 MQTT=MQTT
 Status=Statut
 Fixed\ Apps=Applications fixes
-Settings=Paramètres
+Settings=Param?tres
 
 ! General
-Displaytime=Durée d'affichage
-App\ runtime=Temps d'exécution de l'application
+Displaytime=Dur?e d'affichage
+App\ runtime=Temps d'ex?cution de l'application
 Animation=Animation
 Show\ appname=Afficher le nom de l'app
-Brightness=Luminosité
+Brightness=Luminosit?
 Appearance=Apparence
 Textcolor=COuleur du texte
 Textshadow=Ombre de texte
 Shadowcolor=Couleur de l'ombre
 Auto\ TextSize=Redimensionnement automatique
 Textsize=Taille du texte
-Background\ color=Couleur du fond d'écran
+Background\ color=Couleur du fond d'?cran
 Accents\ color=Couleur des accents
 Welcome\ message=Message de bienvenue
 Welcome\ text=Texte de bienvenue
@@ -54,7 +54,7 @@ Clone=Cloner
 Delete=Effacer
 Do\ you\ want\ to\ clone\ %= Voulez vous clonter?
 Do\ you\ want\ to\ delete\ %= Voulez vou effacer?
-App\ specific=App spécifique
+App\ specific=App sp?cifique
 
 ! MQTT
 MQTT\ ID=ID MQTT 
@@ -65,8 +65,8 @@ Port=Port
 Use\ Login=Utiliser Login
 Username=Nom d'utilisateur
 Passsword=Mot de passe
-Connected=Connecté
-Disconnected=Déconnecté
+Connected=Connect?
+Disconnected=D?connect?
 
 ! Status
 Version=Version
@@ -74,7 +74,7 @@ Space\ left: Espace a gauche
 IP\ Address= Addresse IP
 Clear\ Browsercache=Vider le cache du navigateur
 Restore\ Backup=Restaurer une sauvegarde
-Create\ Backup=Créer une sauvegarde
+Create\ Backup=Cr?er une sauvegarde
 
 ! TTS##
 Pitch=Terrain
@@ -89,17 +89,17 @@ Search\ station=Chercher par station
 ! Utilities
 Sleepmode=Mode veille
 Sleep\ app=Application en veille
-Start\ sleep=Démarrage\ Veille 
-Sleep\ brightness=Luminosité en veille
+Start\ sleep=D?marrage\ Veille 
+Sleep\ brightness=Luminosit? en veille
 Stop\ sleep=Stop\ Veille 
-Awake\ brightness=Luminosité au réveil
-Alarmclock=Réveil
+Awake\ brightness=Luminosit? au r?veil
+Alarmclock=R?veil
 Enable\ alarm=Activer l'alarme
 Alarm\ time=Heure de l'alarme
 Sound=Son
 Radiostation=Station Radio
 Snooze\ time= Snooze
-Alarm=Réveil
+Alarm=R?veil
 Stop=Stop
 Snooze=Snooze
 
@@ -107,13 +107,13 @@ Snooze=Snooze
 City=Ville
 Show\ City=Afficher la ville
 Feels\ like=Ressenti
-Humidity=Humidité
+Humidity=Humidit?
 Pressure=PRession
 Windspeed=Vitesse du vent
 Direction=Direction
 
 ! Crypto
-Coin=Pièce
+Coin=Pi?ce
 Currency=Monnaie
 
 ! Clock
@@ -122,7 +122,7 @@ Show\ border=Afficher les bords
 Show\ seconds\ needle=Afficher la trotteuse
 Show\ seconds\ progress=Afficher la progression des secondes
 Seconds\ needle\ color=Couleur de la trotteuse
-Seconds\ progress\ color=Deuxième couleur de progression
+Seconds\ progress\ color=Deuxi?me couleur de progression
 Show\ minutes\ values=Afficher les minutes
 Show\ minutes\ progress=Afficher la progression des minutes
 Minutes\ needle\ color=Couleur de l'aiguille des minutes
@@ -132,17 +132,17 @@ Hours\ values\ color=Couleur de la valeur des heures
 Hours\ progress\ color=Progression de l'aiguille des heures
 Hours\ needle\ color=Couleur de l'aiguille des heures
 Show\ center=Afficher le point central
-Center\ outer\ color=Couleur extérieure du point central
-Center\ inner\ color=Couleur intérieure du point central
-Show\ degrees=Afficher les degrés
-Degrees\ color=Couelur des degrés
+Center\ outer\ color=Couleur ext?rieure du point central
+Center\ inner\ color=Couleur int?rieure du point central
+Show\ degrees=Afficher les degr?s
+Degrees\ color=Couelur des degr?s
 Value\ disposition=Disposition de valeur
-Degrees\ type=Type de degrés
-Degree\ step=PAs des degrés
+Degrees\ type=Type de degr?s
+Degree\ step=PAs des degr?s
 
 ! SocialMedia
 Username=Nom d'utilisateur
-Onlinebanner=Bannière en ligne
+Onlinebanner=Banni?re en ligne
 Show\ username=Afficher le nom d'utilisateur
 
 ! Whiteboard
@@ -151,13 +151,13 @@ Strokecolor=Couleur de la ligne
 Strokewidth=Largeur de ligne
 
 ! Youtube
-ChannelID=ID de la chaîne
+ChannelID=ID de la cha?ne
 
 ! Pi-Hole
 Pi-hole\ IP=IP de Pi-hole
-Total\ queries\:=Nombre de requêtes:
-Queries\ blocked\:=Requêtes bloquées:
-Percent\ blocked\:=Pourcentage bloqués:
+Total\ queries\:=Nombre de requ?tes:
+Queries\ blocked\:=Requ?tes bloqu?es:
+Percent\ blocked\:=Pourcentage bloqu?s:
 Domains\ on\ blocklist\:=Domaine sur la liste noire:
 
 ! AdGuard

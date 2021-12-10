@@ -5,7 +5,7 @@ Yes=Ja
 No=Nein
 Loading=Lade
 None=Keins
-Random=ZufÃ¤llig
+Random=Zufällig
 Authentication=Anmeldung
 Restart\ required=Neustart erforderlich
 Power=Ein/Aus
@@ -39,8 +39,8 @@ Appearance=Aussehen
 Textcolor=Textfarbe
 Textshadow=Textschatten
 Shadowcolor=Schattenfarbe
-Auto\ TextSize=Auto TextgrÃ¶ÃŸe
-Textsize=TextgrÃ¶ÃŸe
+Auto\ TextSize=Auto Textgröße
+Textsize=Textgröße
 Background\ color=Hintergrundfarbe
 Accents\ color=Akzentfarbe
 Welcome\ message=Willkommensnachricht
@@ -51,8 +51,8 @@ Language=Sprache
 ! Apps
 Clone=Klonen
 Delete=Entfernen
-Do\ you\ want\ to\ clone\ %= MÃ¶chtest du % klonen?
-Do\ you\ want\ to\ delete\ %= MÃ¶chtest du % entfernen?
+Do\ you\ want\ to\ clone\ %= Möchtest du % klonen?
+Do\ you\ want\ to\ delete\ %= Möchtest du % entfernen?
 App\ specific=Appspezifisch
 
 ! MQTT
@@ -71,12 +71,12 @@ Disconnected=Getrennt
 Version=Version
 Space\ left: Freier Speicher
 IP\ Address= IP Addresse
-Clear\ Browsercache=Browsercache lÃ¶schen
+Clear\ Browsercache=Browsercache löschen
 Restore\ Backup=Backup wiederherstellen
 Create\ Backup=Backup erstellen
 
 ! TTS##
-Pitch=TonhÃ¶he
+Pitch=Tonhöhe
 Speed=Geschwindigkeit
 
 ! Radio
@@ -105,7 +105,7 @@ Snooze=Snooze
 ! Weather
 City=Stadt
 Show\ City=Zeige Stadt
-Feels\ like=GefÃ¼hlt wie
+Feels\ like=Gefühlt wie
 Huminity=Luftfeuchte
 Pressure=Druck
 Windspeed=Windgesch.
@@ -113,7 +113,7 @@ Direction=Richtung
 
 ! Crypto
 Coin=Coin
-Currency=WÃ¤hrung
+Currency=Währung
 
 ! Clock
 Border\ color=Rahmenfarbe
@@ -131,7 +131,7 @@ Hours\ values\ color=Stundenfarbe
 Hours\ progress\ color=Stundenfortschritt
 Hours\ needle\ color=Stundenzeiger Farbe
 Show\ center=Zeige Mittelpunkt
-Center\ outer\ color=Mittelpunk auÃŸen
+Center\ outer\ color=Mittelpunk außen
 Center\ inner\ color=Mittelpunkt innen
 Show\ degrees=Zeige Winkel
 Degrees\ color=Winkelfarbe
@@ -147,7 +147,7 @@ Show\ username=Zeige Benutzername
 ! Whiteboard
 Mode=Modus
 Strokecolor=Strichfarbe
-Strokewidth=StrichstÃ¤rke
+Strokewidth=Strichstärke
 
 ! Youtube
 ChannelID=ChannelID
@@ -175,11 +175,11 @@ Rating=Einstufung
 
 ! Helium
 Wallet\ address=Wallet Adresse
-Currency=WÃ¤hrung
+Currency=Währung
 
 ! Octoprint
 Host=Host
-API\ Key=API SchlÃ¼ssel
+API\ Key=API Schlüssel
 Show\ webcam=Zeige Webcam
 Stream\ URL=Stream URL
 Stream\ port=Stream port
@@ -191,6 +191,6 @@ ClientID=ClientID
 ClientSecret=ClientSecret
 
 ! Stock Ticker
-Stock\ symbol=BÃ¶rsenkÃ¼rzel
+Stock\ symbol=Börsenkürzel
 Interval=Intervall
-Exchange=BÃ¶rse
+Exchange=Börse

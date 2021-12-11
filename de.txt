@@ -5,12 +5,12 @@ Yes=Ja
 No=Nein
 Loading=Lade
 None=Keins
-Random=Zufällig
+Random=ZufÃ¤llig
 Authentication=Anmeldung
-Restart\ required=Neustart erforderlich
+Restart required=Neustart erforderlich
 Power=Ein/Aus
 Restart=Neustart
-Fixed\ Apps=Statische Apps
+Fixed Apps=Statische Apps
 NEW=NEU
 Browser=Browser
 Monday=Montag
@@ -26,42 +26,42 @@ General=Allgemein
 WiFi=WLAN
 MQTT=MQTT
 Status=Status
-Fixed\ Apps=Feste Anwendungen
+Fixed Apps=Feste Anwendungen
 Settings=Einstellungen
 
 ! General
 Displaytime=Anzeigedauer
-App\ runtime=Applaufzeit
+App runtime=Applaufzeit
 Animation=Animation
-Show\ appname=Zeige Appname
+Show appname=Zeige Appname
 Brightness=Helligkeit
 Appearance=Aussehen
 Textcolor=Textfarbe
 Textshadow=Textschatten
 Shadowcolor=Schattenfarbe
-Auto\ TextSize=Auto Textgröße
-Textsize=Textgröße
-Background\ color=Hintergrundfarbe
-Accents\ color=Akzentfarbe
-Welcome\ message=Willkommensnachricht
-Welcome\ text=Willkommenstext
-Discord\ username=Discord Benutzername
+Auto TextSize=Auto TextgrÃ¶ÃŸe
+Textsize=TextgrÃ¶ÃŸe
+Background color=Hintergrundfarbe
+Accents color=Akzentfarbe
+Welcome message=Willkommensnachricht
+Welcome text=Willkommenstext
+Discord username=Discord Benutzername
 Language=Sprache
 
 ! Apps
 Clone=Klonen
 Delete=Entfernen
-Do\ you\ want\ to\ clone\ %= Möchtest du % klonen?
-Do\ you\ want\ to\ delete\ %= Möchtest du % entfernen?
-App\ specific=Appspezifisch
+Do you want to clone %= MÃ¶chtest du % klonen?
+Do you want to delete %= MÃ¶chtest du % entfernen?
+App specific=Appspezifisch
 
 ! MQTT
-MQTT\ ID=MQTT ID
+MQTT ID=MQTT ID
 Enable=Aktivieren
-Use\ SSL= Verwende SSL
+Use SSL= Verwende SSL
 Host=Host
 Port=Port
-Use\ Login=Nutze Login
+Use Login=Nutze Login
 Username=Benutzername
 Passsword=Passwort
 Connected=Verbunden
@@ -69,43 +69,43 @@ Disconnected=Getrennt
 
 ! Status
 Version=Version
-Space\ left: Freier Speicher
-IP\ Address= IP Addresse
-Clear\ Browsercache=Browsercache löschen
-Restore\ Backup=Backup wiederherstellen
-Create\ Backup=Backup erstellen
+Space left: Freier Speicher
+IP Address= IP Addresse
+Clear Browsercache=Browsercache lÃ¶schen
+Restore Backup=Backup wiederherstellen
+Create Backup=Backup erstellen
 
-! TTS##
-Pitch=Tonhöhe
+! TTS
+Pitch=TonhÃ¶he
 Speed=Geschwindigkeit
 
 ! Radio
 Favorites=Favoriten
 Top50=Top50
-Search\ by\ name=Nach Namen suchen
-Search\ station=Suche Radiosender
+Search by name=Nach Namen suchen
+Search station=Suche Radiosender
 
 ! Utilities
 Sleepmode=Schlafmodus
-Sleep\ app=Schlafapp
-Start\ sleep=Startzeit
-Sleep\ brightness=Helligkeit beim Schlafen
-Stop\ sleep=Endzeit
-Awake\ brightness=Helligkeit beim Aufwachen
+Sleep app=Schlafapp
+Start sleep=Startzeit
+Sleep brightness=Helligkeit beim Schlafen
+Stop sleep=Endzeit
+Awake brightness=Helligkeit beim Aufwachen
 Alarmclock=Wecker
-Enable\ alarm=Wecker Aktivieren
-Alarm\ time=Weckzeit
+Enable alarm=Wecker Aktivieren
+Alarm time=Weckzeit
 Sound=Sound
 Radiostation=Radiosender
-Snooze\ time= Snooze
+Snooze time= Snooze
 Alarm=Wecker
 Stop=Stop
 Snooze=Snooze
 
 ! Weather
 City=Stadt
-Show\ City=Zeige Stadt
-Feels\ like=Gefühlt wie
+Show City=Zeige Stadt
+Feels like=GefÃ¼hlt wie
 Huminity=Luftfeuchte
 Pressure=Druck
 Windspeed=Windgesch.
@@ -113,84 +113,83 @@ Direction=Richtung
 
 ! Crypto
 Coin=Coin
-Currency=Währung
+Currency=WÃ¤hrung
 
 ! Clock
-Border\ color=Rahmenfarbe
-Show\ border=Zeige Rahmen
-Show\ seconds\ needle=Zeige Sekundenzeiger
-Show\ seconds\ progress=Zeige Sekundenfortschritt
-Seconds\ needle\ color=Sekundenzeiger Farbe
-Seconds\ progress\ color=Sekundenfortschritt Farbe
-Show\ minutes\ values=Zeige Minuten
-Show\ minutes\ progress=Zeige Minutenfortschritt
-Minutes\ needle\ color=Mintenzeiger Farbe
-Minutes\ progress\ color=Minutenfortschritt Farbe
-Show\ hours\ values=Zeige Stunden
-Hours\ values\ color=Stundenfarbe
-Hours\ progress\ color=Stundenfortschritt
-Hours\ needle\ color=Stundenzeiger Farbe
-Show\ center=Zeige Mittelpunkt
-Center\ outer\ color=Mittelpunk außen
-Center\ inner\ color=Mittelpunkt innen
-Show\ degrees=Zeige Winkel
-Degrees\ color=Winkelfarbe
-Value\ disposition=Wertdisposition
-Degrees\ type=Winkeltyp
-Degree\ step=Winkelschritt
+Border color=Rahmenfarbe
+Show border=Zeige Rahmen
+Show seconds needle=Zeige Sekundenzeiger
+Show seconds progress=Zeige Sekundenfortschritt
+Seconds needle color=Sekundenzeiger Farbe
+Seconds progress color=Sekundenfortschritt Farbe
+Show minutes values=Zeige Minuten
+Show minutes progress=Zeige Minutenfortschritt
+Minutes needle color=Mintenzeiger Farbe
+Minutes progress color=Minutenfortschritt Farbe
+Show hours values=Zeige Stunden
+Hours values color=Stundenfarbe
+Hours progress color=Stundenfortschritt
+Hours needle color=Stundenzeiger Farbe
+Show center=Zeige Mittelpunkt
+Center outer color=Mittelpunk auÃŸen
+Center inner color=Mittelpunkt innen
+Show degrees=Zeige Winkel
+Degrees color=Winkelfarbe
+Value disposition=Wertdisposition
+Degrees type=Winkeltyp
+Degree step=Winkelschritt
 
 ! SocialMedia
 Username=Benutzername
 Onlinebanner=Onlinebanner
-Show\ username=Zeige Benutzername
+Show username=Zeige Benutzername
 
 ! Whiteboard
 Mode=Modus
 Strokecolor=Strichfarbe
-Strokewidth=Strichstärke
+Strokewidth=StrichstÃ¤rke
 
 ! Youtube
 ChannelID=ChannelID
 
 ! Pi-Hole
-Pi-hole\ IP=Pi-hole IP
-Total\ queries\:=Gesamte Anfragen:
-Queries\ blocked\:=Anfragen blockiert:
-Percent\ blocked\:=Prozentsatz blockiert:
-Domains\ on\ blocklist\:=Domains auf der Blockliste:
+Pi-hole IP=Pi-hole IP
+Total queries:=Gesamte Anfragen:
+Queries blocked:=Anfragen blockiert:
+Percent blocked:=Prozentsatz blockiert:
+Domains on blocklist:=Domains auf der Blockliste:
 
 ! AdGuard
-AdGuard\ IP=AdGuard IP
+AdGuard IP=AdGuard IP
 Username=Benutzername
 Password=Passwort
 
 ! Digital Clock
-Time\ color=Zeitfarbe
-Date\ color=Datumsfarbe
-
+Time color=Zeitfarbe
+Date color=Datumsfarbe
 
 ! Giphy
-Tag\ filter=Tag filter
+Tag filter=Tag filter
 Rating=Einstufung
 
 ! Helium
-Wallet\ address=Wallet Adresse
-Currency=Währung
+Wallet address=Wallet Adresse
+Currency=WÃ¤hrung
 
 ! Octoprint
 Host=Host
-API\ Key=API Schlüssel
-Show\ webcam=Zeige Webcam
-Stream\ URL=Stream URL
-Stream\ port=Stream port
-Flip\ horizontal=Horizontal spiegeln
-Flip\ vertical=Vertikal spiegeln
+API Key=API SchlÃ¼ssel
+Show webcam=Zeige Webcam
+Stream URL=Stream URL
+Stream port=Stream port
+Flip horizontal=Horizontal spiegeln
+Flip vertical=Vertikal spiegeln
 
 ! Spotify
 ClientID=ClientID
 ClientSecret=ClientSecret
 
 ! Stock Ticker
-Stock\ symbol=Börsenkürzel
+Stock symbol=BÃ¶rsenkÃ¼rzel
 Interval=Intervall
-Exchange=Börse
+Exchange=BÃ¶rse

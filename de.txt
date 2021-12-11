@@ -42,7 +42,7 @@ Shadowcolor=Schattenfarbe
 Auto TextSize=Auto Textgröße
 Textsize=Textgröße
 Background color=Hintergrundfarbe
-Accents color=Akzentfarbe
+Accent color=Akzentfarbe
 Welcome message=Willkommensnachricht
 Welcome text=Willkommenstext
 Discord username=Discord Benutzername
@@ -69,7 +69,7 @@ Disconnected=Getrennt
 
 ! Status
 Version=Version
-Space left: Freier Speicher
+Space left= Freier Speicher
 IP Address= IP Addresse
 Clear Browsercache=Browsercache löschen
 Restore Backup=Backup wiederherstellen

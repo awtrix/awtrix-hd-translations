@@ -21,7 +21,6 @@ Friday=Vendredi
 Saturday=Samedi
 Sunday=Dimanche
 
-
 ! Menus
 General=Générale
 WiFi=WiFi
@@ -43,7 +42,7 @@ Shadowcolor=Couleur de l'ombre
 Auto TextSize=Redimensionnement automatique
 Textsize=Taille du texte
 Background color=Couleur du fond d'écran
-Accents color=Couleur des accents
+Accent color=Couleur des accents
 Welcome message=Message de bienvenue
 Welcome text=Texte de bienvenue
 Discord username=Nom d'utilisateur Discord

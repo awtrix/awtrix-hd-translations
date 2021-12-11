@@ -47,6 +47,8 @@ Welcome message=Message de bienvenue
 Welcome text=Texte de bienvenue
 Discord username=Nom d'utilisateur Discord
 Language=Langue
+Third-party apps=Applications de tiers
+Weblinks=Liens web
 
 ! Apps
 Clone=Cloner

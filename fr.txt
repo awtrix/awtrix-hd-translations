@@ -49,6 +49,8 @@ Discord username=Nom d'utilisateur Discord
 Language=Langue
 Third-party apps=Applications de tiers
 Weblinks=Liens web
+Restart AWTRIX=Redémarrer AWTRIX
+Restart Device=Redémarrer l'appareil
 
 ! Apps
 Clone=Cloner
@@ -76,6 +78,9 @@ IP Address=Addresse IP
 Clear Browsercache=Vider le cache du navigateur
 Restore Backup=Restaurer une sauvegarde
 Create Backup=Créer une sauvegarde
+Wireless ADB=ADB sans fil
+Wireless ADB active=ADB sans fil actif
+
 
 ! TTS##
 Pitch=Terrain

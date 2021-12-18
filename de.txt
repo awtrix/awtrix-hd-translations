@@ -20,6 +20,8 @@ Thursday=Donnerstag
 Friday=Freitag
 Saturday=Samstag
 Sunday=Sonntag
+Not available in free version=In der freien Version nicht verfügbar.
+Error=Fehler
 
 ! Menus
 General=Allgemein
@@ -52,6 +54,7 @@ Weblinks=Weblinks
 Restart AWTRIX=AWTRIX neustarten
 Restart Device=Gerät neustarten
 
+
 ! Apps
 Clone=Klonen
 Delete=Entfernen
@@ -80,6 +83,9 @@ Restore Backup=Backup wiederherstellen
 Create Backup=Backup erstellen
 Wireless ADB=Wireless ADB
 Wireless ADB active=Wireless ADB aktiv
+License=Lizenz
+Active=Aktiviert
+Inactive=Inaktiv
 
 ! TTS
 Pitch=Tonhöhe

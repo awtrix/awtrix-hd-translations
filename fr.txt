@@ -24,7 +24,7 @@ Not available in free version=Non disponible dans la version gratuite.
 Error=Erreur
 
 ! Menus
-General=Générale
+General=Général
 WiFi=WiFi
 MQTT=MQTT
 Status=Statut
@@ -49,7 +49,7 @@ Welcome message=Message de bienvenue
 Welcome text=Texte de bienvenue
 Discord username=Nom d'utilisateur Discord
 Language=Langue
-Third-party apps=Applications de tiers
+Third-party apps=Applications tierces
 Weblinks=Liens web
 Restart AWTRIX=Redémarrer AWTRIX
 Restart Device=Redémarrer l'appareil
@@ -58,16 +58,16 @@ Restart Device=Redémarrer l'appareil
 Clone=Cloner
 Delete=Supprimer
 Do you want to clone %= Voulez vous cloner %?
-Do you want to delete %= Voulez vou supprimer %?
+Do you want to delete %= Voulez vous supprimer %?
 App specific=App spécifique
 
 ! MQTT
 MQTT ID=ID MQTT 
 Enable=Activer
 Use SSL= Utiliser SSL
-Host=Hote
+Host=Hôte
 Port=Port
-Use Login=Utiliser Login
+Use Login=Authentification
 Username=Nom d'utilisateur
 Passsword=Mot de passe
 Connected=Connecté
@@ -75,7 +75,7 @@ Disconnected=Déconnecté
 
 ! Status
 Version=Version
-Space left=Espace a gauche
+Space left=Espace restant
 IP Address=Addresse IP
 Clear Browsercache=Vider le cache du navigateur
 Restore Backup=Restaurer une sauvegarde
@@ -87,7 +87,7 @@ Active=Activé
 Inactive=Inactif
 
 ! TTS##
-Pitch=Terrain
+Pitch=Elocution
 Speed=Vitesse
 
 ! Radio
@@ -118,8 +118,8 @@ City=Ville
 Show City=Afficher la ville
 Feels like=Ressenti
 Humidity=Humidité
-Pressure=PRession
-Windspeed=Vitesse du vent
+Pressure=Pression
+Windspeed=Vent
 Direction=Direction
 
 ! Crypto
@@ -188,9 +188,9 @@ Wallet address=Adresse du portefeuille
 Currency=Monnaie
 
 ! Octoprint
-Host=Host
-API Key=Clef API 
-Show webcam=Afficher la Webcam
+Host=Hôte
+API Key=Clé API 
+Show webcam=Afficher la caméra
 Stream URL=URL du Stream
 Stream port=Port du stream
 Flip horizontal=Retourner Horizontalement
